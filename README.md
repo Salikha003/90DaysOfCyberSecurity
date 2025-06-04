@@ -11,7 +11,7 @@
   - Day 29-42: Python
   - Day 43-56: Traffic Analysis
   - Day 57-63: Git
-  - [Day 64-70: ELK](#elk)
+  - Day 64-70: ELK
   - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
   - [Day 85-90: Hacking](#hacking)
   - [Day 91-92: One Page Resume](#one-page-resume)
