@@ -3,7 +3,7 @@
 ##  Table of Contents
 
 - Introduction
-- [Goals and Audience](#goals-and-audience)
+- [Goals and Audience]
 - [Daily Breakdown](#daily-breakdown)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
