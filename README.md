@@ -13,7 +13,7 @@
   - Day 57-63: Git
   - Day 64-70: ELK
   - Day 71-77: GCP or AWS or Azure 
-  - [Day 85-90: Hacking](#hacking)
+  - Day 85-90: Hacking
   - [Day 91-92: One Page Resume](#one-page-resume)
   - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
 - [Contributing](#contributing)
