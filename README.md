@@ -5,7 +5,7 @@
 - Introduction
 - Goals and Audience
 - Daily Breakdown
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
+  - [Day 1-7: Network+ Concepts]
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
   - [Day 15-28: Linux Tutorials](#linux-tutorials)
   - [Day 29-42: Python](#python)
