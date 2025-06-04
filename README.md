@@ -4,7 +4,7 @@
 
 - Introduction
 - Goals and Audience
-- [Daily Breakdown](#daily-breakdown)
+- [Daily Breakdown]
   - [Day 1-7: Network+ Concepts](#network+-concepts)
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
   - [Day 15-28: Linux Tutorials](#linux-tutorials)
