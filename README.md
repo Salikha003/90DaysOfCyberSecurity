@@ -1,9 +1,6 @@
 # 90-Day Cybersecurity Study Plan
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Introduction](#introduction)
 - [Goals and Audience](#goals-and-audience)
@@ -21,7 +18,7 @@
   - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
 - [Contributing](#contributing)
 
-## 📘 Introduction
+##  Introduction
 
 Welcome to the **90 Days of Cybersecurity** challenge!  
 This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
@@ -39,9 +36,9 @@ The daily modules cover essential and advanced topics, including:
 - Penetration testing and ethical hacking
 
 
-## 🎯 Goals and Audience
+##  Goals and Audience
 
-### 📌 Goals
+###  Goals
 
 The primary goal of this 90-day plan is to help learners:
 
@@ -53,7 +50,7 @@ The primary goal of this 90-day plan is to help learners:
 
 By the end of this journey, you should feel confident navigating a variety of cybersecurity tools, concepts, and techniques.
 
-### 👥 Intended Audience
+## Intended Audience
 
 This repository is ideal for:
 
