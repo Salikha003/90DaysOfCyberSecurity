@@ -8,7 +8,7 @@
   - Day 1-7: Network+ Concepts
   - Day 8-14: Security+ Concepts
   - Day 15-28: Linux Tutorials
-  - [Day 29-42: Python](#python)
+  - [Day 29-42: Python]
   - [Day 43-56: Traffic Analysis](#traffic-analysis)
   - [Day 57-63: Git](#git)
   - [Day 64-70: ELK](#elk)
