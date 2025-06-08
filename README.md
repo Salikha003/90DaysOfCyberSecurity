@@ -2,6 +2,37 @@
 
 ##  Table of Contents
 
+
+- Introduction
+- Goals and Audience
+- Daily Breakdown
+  - Day 1-7: Network+ Concepts
+  - Day 8-14: Security+ Concepts
+  - Day 15-28: Linux Tutorials
+  - Day 29-42: Python
+  - Day 43-56: Traffic Analysis
+  - Day 57-63: Git
+  - Day 64-70: ELK
+  - Day 71-77: GCP or AWS or Azure 
+  - Day 85-90: Hacking
+  - Day 91-92: One Page Resume
+  - Day 93-95: Where and How to Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Introduction
 - Goals and Audience
 - Daily Breakdown
